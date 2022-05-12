@@ -12,8 +12,14 @@
 
 <style scoped>
 
+  *{
+    background: rgb(171, 237, 237);
+  }
+
   h1 {
-    text-align: center
+    font-size: 40px;
+    padding: 25px;
+    text-align: center;
   }
 
 </style>
